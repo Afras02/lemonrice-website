@@ -1,0 +1,55 @@
+.recipe{
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+     }
+
+.card
+{
+    background-color: beige;
+    padding-top: 40px;
+    margin: 250px;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    
+}    
+.image{
+    border-radius: 25px;
+    width: 350px;
+    display: block;
+    margin: auto;
+}
+.topic{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:brown;
+}
+.second,.third,.fourth,.five,.sixth{
+      padding:50px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+}
+.form{
+     border-color: white;
+     border-radius: 14px;
+     background-color:bisque;
+     border: none;
+}
+.button{
+    background-color: brown;
+    border-radius: 7px;
+    color: white;
+    padding:8px 16px;
+    border:none;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: darkred;
+}
+.contents{
+     width: 80px;
+}
+textarea,input[type="text"],input[type="email"]{
+    width: 300px;
+    padding: 8px;
+    margin-bottom: 12px;
+}
+
